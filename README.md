@@ -17,7 +17,7 @@ A program to detect sign language hand signs in real-time via the webcam and out
 
 ## Reddit
 
-<a href="https://www.reddit.com/r/Python/comments/13alyc2/made_a_program_for_year_12_to_detect_sign/">r/Python</a>
+<a href="https://www.reddit.com/r/Python/comments/13alyc2/made_a_program_for_year_12_to_detect_sign/">r/Python</a> - Reddit showcase
 
 
 ## License
